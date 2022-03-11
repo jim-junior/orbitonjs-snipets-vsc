@@ -3,6 +3,8 @@
   "displayName": "Orbiton JS Snippets",
   "description": "Common Snippets to speed Up Development in Orbiton JS",
   "version": "0.0.1",
+  "publisher": "jim-junior",
+  "repository": "https://github.com/jim-junior/orbitonjs-snipets-vsc",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -16,7 +18,7 @@
         "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "javascript",
+        "language": "javascriptreact",
         "path": "./snippets/snippets.code-snippets"
       }
     ]

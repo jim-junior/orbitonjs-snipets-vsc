@@ -21,5 +21,26 @@
       "}"
     ],
     "description": "Initializes An orbiton Class Component with Orbiton Imported At the top Level"
+  },
+  "Orbiton Class Component Without Import": {
+    "prefix": ["_occ", "_orc"],
+    "body": [
+      "class $TM_FILENAME_BASE extends Component {",
+      "\tconstructor(props, context) {",
+      "\t\tsuper(props, context)",
+      "\t\tthis.state = {",
+      "\t\t\t${1:key}: ${2:value}",
+      "\t\t}",
+      "\t}",
+      "\trender() {",
+      "\t\treturn (",
+      "\t\t\t<div>",
+      "\t\t\t\t$0",
+      "\t\t\t</div>",
+      "\t\t)",
+      "\t}",
+      "}"
+    ],
+    "description": "Initializes An orbiton Class Component without Orbiton Imported At the top Level"
   }
 }
