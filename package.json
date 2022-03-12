@@ -2,8 +2,10 @@
   "name": "orbiton-js-snippets",
   "displayName": "Orbiton JS Snippets",
   "description": "Common Snippets to speed Up Development in Orbiton JS",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "jim-junior",
+  "license": "MIT",
+  "homepage": "https://github.com/jim-junior/orbitonjs-snipets-vsc",
   "repository": "https://github.com/jim-junior/orbitonjs-snipets-vsc",
   "engines": {
     "vscode": "^1.65.0"
