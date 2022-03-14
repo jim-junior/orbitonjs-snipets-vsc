@@ -7,6 +7,7 @@
   "license": "MIT",
   "homepage": "https://github.com/jim-junior/orbitonjs-snipets-vsc",
   "repository": "https://github.com/jim-junior/orbitonjs-snipets-vsc",
+  "icon": "img/icon.png",
   "engines": {
     "vscode": "^1.65.0"
   },
